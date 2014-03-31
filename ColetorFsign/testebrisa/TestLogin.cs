@@ -22,7 +22,7 @@ namespace testebrisa
 		{
 			Login login = new Login ();
 			String nome = "Joao";
-			String senha = "1234";
+			String senha = "123";
 
 			Assert.AreEqual (true , login.BuscarUsuarioLogin(nome, senha));
 
