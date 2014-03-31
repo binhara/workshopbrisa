@@ -35,9 +35,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Test.cs" />
-    <Compile Include="TestsSample.cs" />
     <Compile Include="TesteInsumo.cs" />
+    <Compile Include="TesteOrdemServico.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
