@@ -1,14 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="testebrisa\TesteInsumo.cs">
-    <Files>
-      <File FileName="libbrisa\OrdemServico.cs" Line="50" Column="22" />
-      <File FileName="libbrisa\Insumo.cs" Line="1" Column="1" />
-      <File FileName="testebrisa\TesteInsumo.cs" Line="1" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="MonoDevelop.NUnit.TestPad">
-        <State expanded="True" selected="True" />
+        <State expanded="True" selected="True">
+          <Node name="testebrisa" expanded="True">
+            <Node name="testebrisa" expanded="True" />
+          </Node>
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

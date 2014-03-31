@@ -41,5 +41,37 @@ namespace testebrisa
 
 
 	}
+
+
+
+	[TestFixture]
+	public class TestsSample
+	{
+	
+
+		[Test]
+		public void ListarOS ()
+		{
+			OrdemServico os = new OrdemServico ();
+			Assert.IsNotNull (os);
+			Assert.AreEqual (os.ListarOs ().Count , 3);
+
+		}
+
+
+		[Test]
+		public void ListarOSPorID ()
+		{
+
+			var os = OrdemServico.listaOsPorId(2);
+
+			Assert.IsNotNull (os);
+			Assert.AreEqual (os.id, 2);
+
+		}
+
+
+	}
 }
+
 

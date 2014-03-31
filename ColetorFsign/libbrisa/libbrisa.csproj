@@ -37,6 +37,10 @@
       <DependentUpon>MyClass.cs</DependentUpon>
     </Compile>
     <Compile Include="Insumo.cs" />
+    <Compile Include="Atividade.cs">
+      <DependentUpon>MyClass.cs</DependentUpon>
+    </Compile>
+
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
