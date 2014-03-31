@@ -5,7 +5,7 @@ using libbrisa;
 namespace testebrisa
 {
 	[TestFixture]
-	public class TestOrdemServico
+	public class TestOrdemServico1
 
 	{
 		[SetUp]

@@ -31,7 +31,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="nunit.framework">
-<<<<<<< HEAD
       <HintPath>..\..\..\..\..\..\..\Program Files %28x86%29\Xamarin Studio\AddIns\NUnit\nunit.framework.dll</HintPath>
     </Reference>
   </ItemGroup>
@@ -39,15 +38,8 @@
     <Compile Include="TesteInsumo.cs" />
     <Compile Include="TesteOrdemServico.cs" />
     <Compile Include="AtividadeTeste.cs" />
-=======
-      <HintPath>..\..\..\..\..\..\..\Program Files %28x86%29\NUnit 2.6.3\bin\framework\nunit.framework.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-  <ItemGroup>
-    <Compile Include="Test.cs" />
     <Compile Include="TestOrdemServico.cs" />
     <Compile Include="TestLogin.cs" />
->>>>>>> NovaAtividade
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
