@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libbrisa", "libbrisa\libbrisa.csproj", "{51EBDE2C-1AD2-4138-9115-593530138DA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testebrisa", "testebrisa\testebrisa.csproj", "{07BF0961-8C7B-4C20-B35B-EBEF9FA455D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07BF0961-8C7B-4C20-B35B-EBEF9FA455D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07BF0961-8C7B-4C20-B35B-EBEF9FA455D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07BF0961-8C7B-4C20-B35B-EBEF9FA455D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07BF0961-8C7B-4C20-B35B-EBEF9FA455D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51EBDE2C-1AD2-4138-9115-593530138DA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51EBDE2C-1AD2-4138-9115-593530138DA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51EBDE2C-1AD2-4138-9115-593530138DA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51EBDE2C-1AD2-4138-9115-593530138DA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = libbrisa\libbrisa.csproj
+	EndGlobalSection
+EndGlobal
