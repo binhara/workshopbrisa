@@ -1,0 +1,8 @@
+C:\Users\Fregolao\Desktop\HitHub\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\testebrisa.dll
+C:\Users\Fregolao\Desktop\HitHub\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\testebrisa.pdb
+C:\Users\Fregolao\Desktop\HitHub\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\libbrisa.dll
+C:\Users\Fregolao\Desktop\HitHub\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\nunit.framework.dll
+C:\Users\Fregolao\Desktop\HitHub\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\libbrisa.pdb
+C:\Users\Fregolao\Desktop\HitHub\workshopbrisa\ColetorFsign\testebrisa\obj\Debug\testebrisa.csprojResolveAssemblyReference.cache
+C:\Users\Fregolao\Desktop\HitHub\workshopbrisa\ColetorFsign\testebrisa\obj\Debug\testebrisa.dll
+C:\Users\Fregolao\Desktop\HitHub\workshopbrisa\ColetorFsign\testebrisa\obj\Debug\testebrisa.pdb

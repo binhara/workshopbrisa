@@ -5,7 +5,7 @@ using libbrisa;
 namespace testebrisa
 {
 	[TestFixture]
-	public class TestsSample
+	public class TestOrdemServico
 	{
 		[SetUp]
 		public void Setup ()
@@ -37,6 +37,7 @@ namespace testebrisa
 			Assert.AreEqual (os.id, 2);
 
 		}
+
 
 
 	}

@@ -1,0 +1,4 @@
+C:\Users\Fregolao\Desktop\HitHub\workshopbrisa\ColetorFsign\libbrisa\bin\Debug\libbrisa.dll
+C:\Users\Fregolao\Desktop\HitHub\workshopbrisa\ColetorFsign\libbrisa\bin\Debug\libbrisa.pdb
+C:\Users\Fregolao\Desktop\HitHub\workshopbrisa\ColetorFsign\libbrisa\obj\Debug\libbrisa.dll
+C:\Users\Fregolao\Desktop\HitHub\workshopbrisa\ColetorFsign\libbrisa\obj\Debug\libbrisa.pdb
