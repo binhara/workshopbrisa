@@ -1,0 +1,8 @@
+C:\Git\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\testebrisa.dll
+C:\Git\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\testebrisa.pdb
+C:\Git\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\libbrisa.dll
+C:\Git\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\nunit.framework.dll
+C:\Git\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\libbrisa.pdb
+C:\Git\workshopbrisa\ColetorFsign\testebrisa\obj\Debug\testebrisa.csprojResolveAssemblyReference.cache
+C:\Git\workshopbrisa\ColetorFsign\testebrisa\obj\Debug\testebrisa.dll
+C:\Git\workshopbrisa\ColetorFsign\testebrisa\obj\Debug\testebrisa.pdb

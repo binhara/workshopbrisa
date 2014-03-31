@@ -37,6 +37,9 @@
     <Compile Include="OrdemServico.cs">
       <DependentUpon>MyClass.cs</DependentUpon>
     </Compile>
+    <Compile Include="Atividade.cs">
+      <DependentUpon>MyClass.cs</DependentUpon>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

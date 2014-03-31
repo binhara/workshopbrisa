@@ -7,15 +7,7 @@ namespace testebrisa
 	[TestFixture]
 	public class TestsSample
 	{
-		[SetUp]
-		public void Setup ()
-		{
-		}
-
-		[TearDown]
-		public void Tear ()
-		{
-		}
+	
 
 		[Test]
 		public void ListarOS ()
