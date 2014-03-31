@@ -33,20 +33,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-<<<<<<< HEAD
-    <Compile Include="OrdemServico.cs">
-      <DependentUpon>MyClass.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Atividade.cs">
-      <DependentUpon>MyClass.cs</DependentUpon>
-    </Compile>
     <Compile Include="Talhao.cs" />
-=======
     <Compile Include="OrdemServico.cs" />
     <Compile Include="Insumo.cs" />
-    <Compile Include="Atividade.cs" />
     <Compile Include="Login.cs" />
->>>>>>> 33f7ad986965c361b7e39d9aaac9d81c327b82ec
+    <Compile Include="Atividade.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
