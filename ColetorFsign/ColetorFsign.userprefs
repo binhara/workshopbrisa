@@ -1,11 +1,17 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="testebrisa\TestLogin.cs">
+    <Files>
+      <File FileName="testebrisa\TestOrdemServico.cs" Line="8" Column="32" />
+      <File FileName="testebrisa\TestLogin.cs" Line="16" Column="3" />
+    </Files>
     <Pads>
       <Pad Id="MonoDevelop.NUnit.TestPad">
         <State expanded="True" selected="True">
           <Node name="testebrisa" expanded="True">
-            <Node name="testebrisa" expanded="True" />
+            <Node name="testebrisa" expanded="True">
+              <Node name="TestLogin" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
