@@ -3,7 +3,6 @@ C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\t
 C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\libbrisa.dll
 C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\nunit.framework.dll
 C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\libbrisa.pdb
-C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\nunit.framework.xml
 C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\obj\Debug\testebrisa.csprojResolveAssemblyReference.cache
 C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\obj\Debug\testebrisa.dll
 C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\obj\Debug\testebrisa.pdb
