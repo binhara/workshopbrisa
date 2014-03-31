@@ -5,9 +5,18 @@ using libbrisa;
 namespace testebrisa
 {
 	[TestFixture]
-	public class TestsSample
+	public class TestOrdemServico1
+
 	{
-	
+		[SetUp]
+		public void Setup ()
+		{
+		}
+
+		[TearDown]
+		public void Tear ()
+		{
+		}
 
 		[Test]
 		public void ListarOS ()
@@ -29,6 +38,8 @@ namespace testebrisa
 			Assert.AreEqual (os.id, 2);
 
 		}
+
+
 
 
 	}

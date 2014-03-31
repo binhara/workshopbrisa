@@ -1,8 +1,8 @@
-C:\Git\workshopbrisa\ColetorFsign\libbrisa\bin\Debug\libbrisa.dll
-C:\Git\workshopbrisa\ColetorFsign\libbrisa\bin\Debug\libbrisa.pdb
-C:\Git\workshopbrisa\ColetorFsign\libbrisa\obj\Debug\libbrisa.dll
-C:\Git\workshopbrisa\ColetorFsign\libbrisa\obj\Debug\libbrisa.pdb
-C:\Users\alessandro\Desktop\Git\workshopbrisa\ColetorFsign\libbrisa\bin\Debug\libbrisa.dll
-C:\Users\alessandro\Desktop\Git\workshopbrisa\ColetorFsign\libbrisa\bin\Debug\libbrisa.pdb
-C:\Users\alessandro\Desktop\Git\workshopbrisa\ColetorFsign\libbrisa\obj\Debug\libbrisa.dll
-C:\Users\alessandro\Desktop\Git\workshopbrisa\ColetorFsign\libbrisa\obj\Debug\libbrisa.pdb
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libbrisa\bin\Debug\libbrisa.dll
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libbrisa\bin\Debug\libbrisa.pdb
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libbrisa\obj\Debug\libbrisa.dll
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libbrisa\obj\Debug\libbrisa.pdb
+C:\Users\Rafael\Desktop\teste\workshopbrisa\ColetorFsign\libbrisa\bin\Debug\libbrisa.dll
+C:\Users\Rafael\Desktop\teste\workshopbrisa\ColetorFsign\libbrisa\bin\Debug\libbrisa.pdb
+C:\Users\Rafael\Desktop\teste\workshopbrisa\ColetorFsign\libbrisa\obj\Debug\libbrisa.dll
+C:\Users\Rafael\Desktop\teste\workshopbrisa\ColetorFsign\libbrisa\obj\Debug\libbrisa.pdb

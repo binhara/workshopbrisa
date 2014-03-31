@@ -31,13 +31,19 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="nunit.framework">
-      <HintPath>..\..\..\..\Program Files\Xamarin Studio\AddIns\NUnit\nunit.framework.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\..\Program Files %28x86%29\Xamarin Studio\AddIns\NUnit\nunit.framework.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TestsSample.cs" />
+    <Compile Include="TesteInsumo.cs" />
+    <Compile Include="TesteOrdemServico.cs" />
     <Compile Include="AtividadeTeste.cs" />
+<<<<<<< HEAD
     <Compile Include="TalhaoTeste.cs" />
+=======
+    <Compile Include="TestOrdemServico.cs" />
+    <Compile Include="TestLogin.cs" />
+>>>>>>> 33f7ad986965c361b7e39d9aaac9d81c327b82ec
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
