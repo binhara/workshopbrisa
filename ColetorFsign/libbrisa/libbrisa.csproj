@@ -38,6 +38,7 @@
     <Compile Include="Insumo.cs" />
     <Compile Include="Login.cs" />
     <Compile Include="Atividade.cs" />
+    <Compile Include="Apontamento.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

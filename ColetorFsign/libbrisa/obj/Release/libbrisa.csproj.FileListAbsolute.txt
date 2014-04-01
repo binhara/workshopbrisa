@@ -1,0 +1,4 @@
+C:\Users\alessandro\Desktop\Git\workshopbrisa\ColetorFsign\libbrisa\bin\Release\libbrisa.dll
+C:\Users\alessandro\Desktop\Git\workshopbrisa\ColetorFsign\libbrisa\bin\Release\libbrisa.pdb
+C:\Users\alessandro\Desktop\Git\workshopbrisa\ColetorFsign\libbrisa\obj\Release\libbrisa.dll
+C:\Users\alessandro\Desktop\Git\workshopbrisa\ColetorFsign\libbrisa\obj\Release\libbrisa.pdb

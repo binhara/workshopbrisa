@@ -5,7 +5,7 @@ using libbrisa;
 namespace testebrisa
 {
 	[TestFixture]
-	public class TestLogin
+	public class TesteLogin
 	{
 		[SetUp]
 		public void Setup ()
