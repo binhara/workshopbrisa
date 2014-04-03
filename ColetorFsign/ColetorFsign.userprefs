@@ -1,9 +1,16 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="libbrisa\Atividade.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="testebrisa\TesteFuncionario.cs">
     <Files>
-      <File FileName="libbrisa\Atividade.cs" Line="38" Column="4" />
+      <File FileName="libbrisa\Funcionario.cs" Line="37" Column="28" />
+      <File FileName="testebrisa\TesteInsumo.cs" Line="40" Column="4" />
+      <File FileName="testebrisa\TesteFuncionario.cs" Line="16" Column="4" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>

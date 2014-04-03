@@ -43,6 +43,7 @@
     <Compile Include="Login.cs" />
     <Compile Include="FSData\clsAcessoBanco.cs" />
     <Compile Include="Funcionario.cs" />
+    <Compile Include="Projeto.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
