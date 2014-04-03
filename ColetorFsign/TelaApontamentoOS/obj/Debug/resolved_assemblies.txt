@@ -1,0 +1,2 @@
+C:\Users\Fregolao\Desktop\HitHub\workshopbrisa\ColetorFsign\TelaApontamentoOS\bin\Debug\TelaApontamentoOS.dll
+C:\Users\Fregolao\Desktop\HitHub\workshopbrisa\ColetorFsign\libTeste\bin\Debug\libTeste.dll

@@ -1,0 +1,4 @@
+TelaApontamentoOS.MainActivity;telaapontamentoos.MainActivity
+TelaApontamentoOS.TelaListaOS;telaapontamentoos.TelaListaOS
+libTeste.MainActivity;libteste.MainActivity
+libTeste.OSAdaptert;libteste.OSAdaptert
