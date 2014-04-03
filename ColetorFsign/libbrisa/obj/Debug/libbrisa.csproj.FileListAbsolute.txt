@@ -2,3 +2,5 @@ C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libbrisa\bin\Debug\lib
 C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libbrisa\bin\Debug\libbrisa.pdb
 C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libbrisa\obj\Debug\libbrisa.dll
 C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libbrisa\obj\Debug\libbrisa.pdb
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libbrisa\obj\Debug\libbrisa.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libbrisa\bin\Debug\Mono.Data.Sqlite.dll

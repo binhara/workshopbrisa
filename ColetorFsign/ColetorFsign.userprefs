@@ -1,18 +1,18 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench>
-    <Pads>
-      <Pad Id="MonoDevelop.NUnit.TestPad">
-        <State expanded="True" selected="True">
-          <Node name="testebrisa" expanded="True">
-            <Node name="testebrisa" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
+  <MonoDevelop.Ide.Workbench ActiveDocument="libbrisa\Atividade.cs">
+    <Files>
+      <File FileName="libbrisa\Atividade.cs" Line="38" Column="4" />
+    </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\TesteApontamento.cs" line="49" column="3" />
+      <Breakpoint file="C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libbrisa\FSData\clsAcessoBanco.cs" line="50" column="1" />
+      <Breakpoint file="C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libbrisa\FSData\clsAcessoBanco.cs" line="60" column="1" />
+      <Breakpoint file="C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libbrisa\FSData\clsAcessoBanco.cs" line="59" column="1" />
+      <Breakpoint file="C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libbrisa\FSData\clsAcessoBanco.cs" line="13" column="42" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

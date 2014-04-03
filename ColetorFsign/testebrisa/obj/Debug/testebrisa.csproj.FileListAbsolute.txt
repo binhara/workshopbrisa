@@ -6,3 +6,4 @@ C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\l
 C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\obj\Debug\testebrisa.csprojResolveAssemblyReference.cache
 C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\obj\Debug\testebrisa.dll
 C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\obj\Debug\testebrisa.pdb
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\Mono.Data.Sqlite.dll
