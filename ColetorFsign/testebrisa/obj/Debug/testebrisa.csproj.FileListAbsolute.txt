@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\alessandro\Desktop\Git\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\testebrisa.dll
 C:\Users\alessandro\Desktop\Git\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\testebrisa.pdb
 C:\Users\alessandro\Desktop\Git\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\libbrisa.dll
@@ -5,3 +6,13 @@ C:\Users\alessandro\Desktop\Git\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\
 C:\Users\alessandro\Desktop\Git\workshopbrisa\ColetorFsign\testebrisa\obj\Debug\testebrisa.csprojResolveAssemblyReference.cache
 C:\Users\alessandro\Desktop\Git\workshopbrisa\ColetorFsign\testebrisa\obj\Debug\testebrisa.dll
 C:\Users\alessandro\Desktop\Git\workshopbrisa\ColetorFsign\testebrisa\obj\Debug\testebrisa.pdb
+=======
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\testebrisa.dll
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\testebrisa.pdb
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\libBrisaPCL.dll
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\nunit.framework.dll
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\bin\Debug\libBrisaPCL.pdb
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\obj\Debug\testebrisa.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\obj\Debug\testebrisa.dll
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\testebrisa\obj\Debug\testebrisa.pdb
+>>>>>>> projetos

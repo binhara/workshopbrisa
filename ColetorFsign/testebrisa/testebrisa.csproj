@@ -40,14 +40,20 @@
     <Compile Include="AtividadeTeste.cs" />
     <Compile Include="TalhaoTeste.cs" />
     <Compile Include="TestOrdemServico.cs" />
+<<<<<<< HEAD
     <Compile Include="TesteLogin.cs" />
     <Compile Include="TesteApontamento.cs" />
+=======
+    <Compile Include="TestLogin.cs" />
+    <Compile Include="TesteFuncionario.cs" />
+    <Compile Include="TesteProjeto.cs" />
+>>>>>>> projetos
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
-    <ProjectReference Include="..\libbrisa\libbrisa.csproj">
-      <Project>{51EBDE2C-1AD2-4138-9115-593530138DA7}</Project>
-      <Name>libbrisa</Name>
+    <ProjectReference Include="..\libBrisaPCL\libBrisaPCL.csproj">
+      <Project>{6ADA5E54-73CE-4609-8387-35CA4A6F070C}</Project>
+      <Name>libBrisaPCL</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>

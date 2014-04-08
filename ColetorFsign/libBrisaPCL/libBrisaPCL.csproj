@@ -10,7 +10,7 @@
     <OutputType>Library</OutputType>
     <RootNamespace>libBrisaPCL</RootNamespace>
     <AssemblyName>libBrisaPCL</AssemblyName>
-    <TargetFrameworkProfile>Profile24</TargetFrameworkProfile>
+    <TargetFrameworkProfile>Profile14</TargetFrameworkProfile>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -32,7 +32,6 @@
     <ConsolePause>false</ConsolePause>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="MyClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Atividade.cs" />
     <Compile Include="Funcionario.cs" />
@@ -40,16 +39,6 @@
     <Compile Include="Login.cs" />
     <Compile Include="OrdemServico.cs" />
     <Compile Include="Projeto.cs" />
-    <Compile Include="FSData\Repository.cs" />
-    <Compile Include="FSData\SQlite.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
-  <ItemGroup>
-    <Folder Include="FSData\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Reference Include="Mono.Data.Sqlite">
-      <HintPath>..\..\..\..\Mono.Data.Sqlite.dll</HintPath>
-    </Reference>
-  </ItemGroup>
 </Project>

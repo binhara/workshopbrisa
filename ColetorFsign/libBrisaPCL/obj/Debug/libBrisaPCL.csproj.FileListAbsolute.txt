@@ -1,0 +1,5 @@
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libBrisaPCL\obj\Debug\libBrisaPCL.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libBrisaPCL\bin\Debug\libBrisaPCL.dll
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libBrisaPCL\bin\Debug\libBrisaPCL.pdb
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libBrisaPCL\obj\Debug\libBrisaPCL.dll
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libBrisaPCL\obj\Debug\libBrisaPCL.pdb

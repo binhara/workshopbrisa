@@ -1,0 +1,2 @@
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\ColetorFsign\bin\Debug\ColetorFsign.dll
+C:\Users\Rafael\Desktop\github\workshopbrisa\ColetorFsign\libBrisaPCL\bin\Debug\libBrisaPCL.dll

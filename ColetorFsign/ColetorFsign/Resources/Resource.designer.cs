@@ -47,6 +47,9 @@ namespace ColetorFsign
 			// aapt resource value: 0x7f020000
 			public const int Icon = 2130837504;
 			
+			// aapt resource value: 0x7f020001
+			public const int monoandroidsplash = 2130837505;
+			
 			static Drawable()
 			{
 				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
@@ -57,46 +60,14 @@ namespace ColetorFsign
 			}
 		}
 		
-		public partial class Id
-		{
-			
-			// aapt resource value: 0x7f050000
-			public const int myButton = 2131034112;
-			
-			static Id()
-			{
-				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
-			}
-			
-			private Id()
-			{
-			}
-		}
-		
-		public partial class Layout
-		{
-			
-			// aapt resource value: 0x7f030000
-			public const int Main = 2130903040;
-			
-			static Layout()
-			{
-				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
-			}
-			
-			private Layout()
-			{
-			}
-		}
-		
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f040001
-			public const int app_name = 2130968577;
+			// aapt resource value: 0x7f030001
+			public const int app_name = 2130903041;
 			
-			// aapt resource value: 0x7f040000
-			public const int hello = 2130968576;
+			// aapt resource value: 0x7f030000
+			public const int hello = 2130903040;
 			
 			static String()
 			{
@@ -104,6 +75,22 @@ namespace ColetorFsign
 			}
 			
 			private String()
+			{
+			}
+		}
+		
+		public partial class Style
+		{
+			
+			// aapt resource value: 0x7f040000
+			public const int Mono_Android_Theme_Splash = 2130968576;
+			
+			static Style()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Style()
 			{
 			}
 		}

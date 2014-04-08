@@ -1,6 +1,6 @@
 ﻿using System;
 using NUnit.Framework;
-using libbrisa;
+using libBrisaPCL;
 
 namespace testebrisa
 {
